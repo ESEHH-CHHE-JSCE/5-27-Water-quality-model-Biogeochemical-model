@@ -13,5 +13,6 @@ one_box_model_2022_v3.2.ipynb：Jupyter Notebook環境ですべての小問を�
 2024/12/23　公開<br>
 現在のところ修正・指摘事項はありません・<br>
 －－－－－－－－－－－－－<br>
-
+本例題に関する問い合わせ先<br>
+入江政安・永野隆紀　irie@civil.eng.osaka-u.ac.jp<br>
 
