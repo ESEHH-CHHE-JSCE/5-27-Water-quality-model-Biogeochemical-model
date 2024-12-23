@@ -1,5 +1,5 @@
 # 5-27-Water-quality-model-Biogeochemical-model
-Python code for the nutrient-plankton-detritus nitrogen circulation with oxygen consideration<br>
+【例題5.27】水質生態系モデル　Python code for the nutrient-plankton-detritus nitrogen circulation with oxygen consideration<br>
 水域内の窒素循環をベースとした簡単な水質モデルです。海域内の植物プランクトンの光合成が窒素量によって制限される「外洋型」の水質モデルです。<br>
 <br>
 参考文献は以下の通りです。<br>
