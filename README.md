@@ -8,7 +8,11 @@ Fennel, K., Hu, J., Laurent, A., Marta‐Almeida, M., & Hetland, R.: Sensitivity
 公開しているプログラムは以下の2種類です。<br>
 one_box_model_2022_fig1_v3.2.py：本例題で使用したPythonコード<br>
 one_box_model_2022_v3.2.ipynb：Jupyter Notebook環境ですべての小問を確認することができます。<br>
-<br>
+**実行環境**
+開発時点で使用した各ソフトウェアのバージョンは次の通りです．
+* python 3.9.13
+* numpy 1.21.5
+* matplotlib 3.5.2<br>
 －－－アップデート歴－－－<br>
 2024/12/23　公開<br>
 現在のところ修正・指摘事項はありません・<br>
