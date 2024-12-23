@@ -1,6 +1,6 @@
 # 5-27-Water-quality-model-Biogeochemical-model
 Python code for the nutrient-plankton-detritus nitrogen circulation with oxygen consideration
-水域内の窒素循環をベースとした簡単な水質モデルです。海域内の植物プランクトンの光合成が窒素量によって制限される「外洋型」の水質モデルです。
+水域内の窒素循環をベースとした簡単な水質モデルです。海域内の植物プランクトンの光合成が窒素量によって制限される「外洋型」の水質モデルです。<br>
 参考文献は以下の通りです。
 Fasham, M. J., Ducklow, H. W., & McKelvie, S. M.: A nitrogen-based model of plankton dynamics in the oceanic mixed layer. Journal of Marine Research, Vol. 48 (3), pp.591-639, 1990.
 Fennel, K., Wilkin, J., Levin, J., Moisan, J., O'Reilly, J., & Haidvogel, D.: Nitrogen cycling in the Middle Atlantic Bight: Results from a three‐dimensional model and implications for the North Atlantic nitrogen budget. Global Biogeochemical Cycles, Vol. 20 (3), 2006.
